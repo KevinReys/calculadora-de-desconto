@@ -23,7 +23,7 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra uma solicitação de pull request.
 
-##Personalização
+## Personalização
 Você pode personalizar este projeto de várias maneiras, incluindo:
 
 Alterar os critérios de desconto para se adequar às necessidades da sua aplicação.
@@ -31,5 +31,5 @@ Adicionar mais estilos CSS para melhorar a aparência da calculadora.
 Implementar funcionalidades adicionais, como permitir que o usuário escolha o tipo de desconto (porcentagem fixa, valor fixo, etc.).
 Sinta-se à vontade para modificar e expandir este projeto de acordo com os requisitos do seu próprio aplicativo de calculadora de desconto!
 
-##Autor
+## Autor
 Este projeto foi desenvolvido por Kevin Reys.
