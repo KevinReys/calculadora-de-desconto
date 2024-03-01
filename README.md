@@ -1,35 +1,34 @@
+# Discount Calculator
+This is a simple discount calculator implemented in HTML, CSS and JavaScript.
+It determines the discount based on the purchase value and displays the calculated discount amount.
 
-# Calculadora de Desconto
-Esta é uma simples calculadora de desconto implementada em HTML, CSS e JavaScript. 
-Ela determina o desconto com base no valor da compra e exibe o valor do desconto calculado.
+## How to use
+Open the index.html file in a web browser.
+Enter the total amount of your purchase in the field provided.
+Click on the "Calculate Discount" button.
+The purchase amount will automatically determine the applicable discount.
 
-## Como Usar
-Abra o arquivo index.html em um navegador da web.
-Insira o valor total da sua compra no campo fornecido.
-Clique no botão "Calcular Desconto".
-O valor da compra determinará automaticamente o desconto aplicável.
+## Functionalities
+- Asks the user for the total purchase amount.
+- Calculates the discount based on the purchase value.
+- Displays the calculated discount amount.
 
-## Funcionalidades
-- Solicita ao usuário o valor total da compra.
-- Calcula o desconto com base no valor da compra.
-- Exibe o valor do desconto calculado.
+## How to Contribute
+If you want to contribute to this project, please follow these steps:
 
-## Como Contribuir
-Se você quiser contribuir para este projeto, siga estas etapas:
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/nova-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/nova-feature`).
+5. Open a pull request.
 
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
-3. Faça commit de suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra uma solicitação de pull request.
+## Personalization
+You can customize this project in several ways, including:
 
-## Personalização
-Você pode personalizar este projeto de várias maneiras, incluindo:
+Change discount criteria to suit your application needs.
+Add more CSS styles to improve the appearance of the calculator.
+Implement additional features, such as allowing the user to choose the type of discount (fixed percentage, fixed amount, etc.).
+Feel free to modify and expand this project as per your own discount calculator app requirements!
 
-Alterar os critérios de desconto para se adequar às necessidades da sua aplicação.
-Adicionar mais estilos CSS para melhorar a aparência da calculadora.
-Implementar funcionalidades adicionais, como permitir que o usuário escolha o tipo de desconto (porcentagem fixa, valor fixo, etc.).
-Sinta-se à vontade para modificar e expandir este projeto de acordo com os requisitos do seu próprio aplicativo de calculadora de desconto!
-
-## Autor
-Este projeto foi desenvolvido por Kevin Reys.
+## Author
+This project was developed by Kevin Reys.
